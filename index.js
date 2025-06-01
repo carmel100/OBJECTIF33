@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://objectif-32-kb5qhn0l9-carmel100s-projects.vercel.app/login",
+    origin: "https://objectif-32-ghtfib92q-carmel100s-projects.vercel.app/login",
     credentials: true,
   })
 );
